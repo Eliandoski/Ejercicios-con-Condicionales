@@ -1,0 +1,5 @@
+Calificación: 3.4/4
+
+El algoritmo debe validar la contraseña tanto en mayúsculas como en minúsculas.
+Los ejercicios deben incluir los enunciados de los mismos.
+
